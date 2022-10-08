@@ -1,6 +1,6 @@
 # GoAI
-This repository is in regards with the owners ,academics mini-project and Smart India hackathon .
-
+This repository is in regards with the owners ,academics mini-project and Smart India hackathon .We are a team of three and 1 mentor, like to mention
+them. _Om,Rohit,Me_ and our mentor **Amit Tiwari** 
 # Gaming AI 🚘 🛣
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/danonymous856/MINI_PROJECT-sem5-/blob/crucial/LICENSE.txt)  [![](https://img.shields.io/badge/Donald-Laishram-brightgreen.svg?colorB=ff0000)](https://github.com/danonymous856)
