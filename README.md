@@ -64,6 +64,13 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
  - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
  - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
-#   G o A I 
+
  
+## So far So good ....
+
+
+
+![output](https://user-images.githubusercontent.com/81114860/213907029-fd6d495c-e10e-4ebd-882c-ff2797f59b23.gif)
+
+
  
