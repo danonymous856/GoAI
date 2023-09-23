@@ -71,7 +71,7 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 
 
 ![output](https://user-images.githubusercontent.com/81114860/213907029-fd6d495c-e10e-4ebd-882c-ff2797f59b23.gif)
-![reddit](https://github.com/danonymous856/GoAI/assets/81114860/6d30fdc3-05fc-4be8-8333-73ce5245497a)
+![reddit ka idea](https://github.com/danonymous856/GoAI/assets/81114860/9380b9b9-03bd-46d4-86b2-5b109c27aeb6)
 
 
 
